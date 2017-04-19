@@ -1,0 +1,16 @@
+.listing{
+  width: 1000px;
+  margin: 10px;
+  border: 20px red;
+  padding: 4px;
+  background-color: gold;
+  font-style: italic;
+}
+
+.column{
+  width: 500px;
+  float: right;
+  margin: 5px;
+  background-color: red;
+  font-style: normal;
+  padding-left: 5px;
